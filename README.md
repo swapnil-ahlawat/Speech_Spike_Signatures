@@ -1,4 +1,4 @@
-# speech_spike_signatures
+# Speech to Spiking Signatures
 
 Implementation of the paper [A Spiking Network that Learns to Extract Spike Signatures from Speech Signals](https://arxiv.org/abs/1606.00802)
 
